@@ -1,0 +1,10 @@
+{
+  "platforms": [
+    { "x": 0, "y": 380, "width": 800, "height": 20 },
+    { "x": 100, "y": 320, "width": 100, "height": 10 },
+    { "x": 250, "y": 270, "width": 100, "height": 10 },
+    { "x": 400, "y": 220, "width": 100, "height": 10 },
+    { "x": 550, "y": 170, "width": 100, "height": 10 }
+  ],
+  "goal": { "x": 720, "y": 120, "width": 30, "height": 30 }
+}
